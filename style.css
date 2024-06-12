@@ -121,7 +121,7 @@ A:hover
     width: 80%;
     margin: 0 auto;
     overflow: hidden;
-    background-color: #B52846;
+   /* background-color: #B52846;*/
 }
 
 .carrusel {
